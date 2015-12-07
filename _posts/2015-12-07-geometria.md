@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: architecture and geoemtry
-datePublished: '2015-12-07T07:38:39.217Z'
-dateModified: '2015-12-07T07:38:27.784Z'
+datePublished: '2015-12-07T12:18:53.306Z'
+dateModified: '2015-12-07T07:42:39.380Z'
 title: GEOMETRIA
 author: []
 authors: []
