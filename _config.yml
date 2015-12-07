@@ -1,7 +1,7 @@
 name: GEOMETRIA
 favicon: null
-layout_spectrum: 0.2115384095814079
-typography_spectrum: 0.5435710928868502
+layout_spectrum: 0.2296
+typography_spectrum: 0.71576
 title: GEOMETRIA - architecture and geometry
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.601086312904954
-  lightness: 0.580764637561515
-  saturation: 0.20342017756775022
-  rhythmicContrast: 0.16271795169450343
+    - '#7e7367'
+    - '#4f4238'
+    - '#c2bbb7'
+    - '#231408'
+    - '#ffffff'
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
