@@ -1,0 +1,28 @@
+name: GEOMETRIA
+favicon: null
+layout_spectrum: 0.2115384095814079
+typography_spectrum: 0.5435710928868502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.601086312904954
+  lightness: 0.580764637561515
+  saturation: 0.20342017756775022
+  rhythmicContrast: 0.16271795169450343
+purpose: []
